@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "Poppins";
+  src: local("Poppins"),
+    url("./fonts/Poppins-Regular.ttf") format("truetype");
+    
+  
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local("Roboto"),
+    url("./fonts/Roboto-Regular.ttf") format("truetype");
+    
+  
+}
+
+
+@font-face {
+  font-family: "OpenSans";
+  src: local("OpenSans"),
+    url("./fonts/OpenSans-Regular.ttf") format("truetype");
+    
+  
+}
